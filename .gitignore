@@ -1,0 +1,6 @@
+# Visual Studio and VS Code settings
+.vs/
+.vscode/
+
+# Build or output folder
+out/
